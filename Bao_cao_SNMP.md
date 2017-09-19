@@ -162,7 +162,8 @@
    10, Mô hình lab
   </h2>
   <p>
-   <img src=""/>
+  <p align="center">
+   <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_051.png"/>
   </p>
   <h2 id="11-cai-at-cacti-tren-ubuntu-1604">
    11, Cài đặt Cacti trên ubuntu 16.04
