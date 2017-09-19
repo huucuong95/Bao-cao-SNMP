@@ -104,18 +104,21 @@
    <br/>
    <p align="center">
    <img src="https://www.manageengine.com/network-monitoring/images/snmp-get-response.gif">
+     </p>
    <br/>
    - TRAPS: không giống như các lệnh trên được bắt đầu từ manager SNMP, TRAPS được khởi tạo bởi các agent. Đây là một tín hiệu cho manager SNMP của agent khi có một sự kiện mới.
    <br/>
     <p align="center">
    <img href='http://src="https://www.manageengine.com'/>
    <img src="https://www.manageengine.com/network-monitoring/images/snmp-trap.gif">
+      </p>
    <br/>
    - INFORM: lệnh này tương tự như TRAPS do agent khởi xướng, ngoài ra INFORM bao gồm xác nhận manager SNMP khi nhận thông báo.
    <br/>
      <p align="center">
    <img href='http://src="https://www.manageengine.com'/>
    <img src="https://www.manageengine.com/network-monitoring/images/snmp-inform-acknowledgment.gif">
+       </p>
    <br/>
    - RESPONSE: đây là lệnh được sử dụng để mang lại giá trị hoặc tín hiệu của các hành động theo chỉ thị của SNMP manager.
    <br/>
@@ -124,6 +127,7 @@
       <p align="center">
    <img href='http://src="https://www.manageengine.com'/>
    <img src="https://www.manageengine.com/network-monitoring/images/snmp-layers.gif">
+        </p>
    <br/>
    Mặc định SNMP sử dụng cổng 161 và TRAP/INFORM sử dụng cổng 162 để truyền tin.
   </p>
@@ -148,6 +152,7 @@
    <p align="center">
    <img href='http://src="http://i.imgur.com'/>
    <img src="http://i.imgur.com/HZ0gq.jpg">
+     </p>
    <br/>
    + Version : v1 = 0, v2c = 1, v2u = 2, v3 = 3.
    <br/>
@@ -188,6 +193,7 @@
    <p align="center">
    <img href='http://src="https://www.unixmen.com'/>
    <img src="https://www.unixmen.com/wp-content/uploads/2015/01/1.png">
+     </p>
    <br/>
    Chọn OK để tiếp tục
    <br/>
@@ -196,18 +202,21 @@
     <p align="center">
    <img href='http://src="https://www.unixmen.com'/>
    <img src="https://www.unixmen.com/wp-content/uploads/2015/01/4.png">
+  </p>
    <br/>
    Tiếp theo sẽ có thông báo
    <br/>
      <p align="center">
    <img href='http://src="https://www.unixmen.com'/>
    <img src="https://www.unixmen.com/wp-content/uploads/2015/01/2.png">
+  </p>
    <br/>
    Chọn yes, khi cài đặt sẽ có bước yêu cầu bạn nhập password cho tài khoản root MySQL của bạn
    <br/>
       <p align="center">
    <img href='http://src="https://www.unixmen.com'/>
    <img src="https://www.unixmen.com/wp-content/uploads/2015/01/3.png">
+  </p>
    <br/>
    Cuối cùng sau khi hoàn thành các bước trên ta khởi động dịch vụ lên
    <br/>
@@ -227,6 +236,7 @@
        <p align="center">
    <img href='http://src="https://www.unixmen.com'/>
    <img src="https://www.unixmen.com/wp-content/uploads/2015/01/9.png">
+  </p>
    <br/>
    Tiếp theo thiết lập spine
    <br/>
@@ -237,6 +247,7 @@
         <p align="center">
    <img href='http://src="https://www.unixmen.com'/>
    <img src="https://www.unixmen.com/wp-content/uploads/2015/01/spine.png">
+  </p>
    <br/>
    Tiếp theo bạn chọn vào graphs -&gt; default tree -&gt; Host: Locahost
    <br/>
@@ -253,6 +264,7 @@
    <br/>
    <p align="center">
    <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_034.png"/>
+     </p>
    <br/>
    Khi này bạn sẽ bị thông báo
    <br/>
@@ -272,11 +284,13 @@
    <br/>
     <p align="center">
    <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_036.png"/>
+  </p>
    <br/>
    Tiếp tới để xem được host dưới dạng biểu đồ thì chúng ta cần thêm host vào danh sách. Truy cập theo đường dẫn Graph Trees -&gt; test -&gt; add rồi chọn như hình dưới:
    <br/>
      <p align="center">
    <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_038.png"/>
+  </p>
    <br/>
    Sau đó ấn create để hoàn thành
    <br/>
@@ -304,11 +318,13 @@
    <br/>
    <p align="center">
    <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_041.png"/>
+     </p>
    <br/>
    Sau đó chọn setting -&gt; Mail / DNS rồi điền nội dung tương tự hình dưới rồi ấn save để lưu lại.
    <br/>
     <p align="center">
    <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_040.png"/>
+  </p>
    <br/>
    Sau đó chọn sent a test email sẽ được kết quả
    <br/>
