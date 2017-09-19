@@ -103,19 +103,19 @@
    - TRAPS: không giống như các lệnh trên được bắt đầu từ manager SNMP, TRAPS được khởi tạo bởi các agent. Đây là một tín hiệu cho manager SNMP của agent khi có một sự kiện mới.
    <br/>
    <img href='http://src="https://www.manageengine.com'/>
-   src="https://www.manageengine.com/network-monitoring/images/snmp-trap.gif"&gt;
+   <img src="https://www.manageengine.com/network-monitoring/images/snmp-trap.gif">
    <br/>
    - INFORM: lệnh này tương tự như TRAPS do agent khởi xướng, ngoài ra INFORM bao gồm xác nhận manager SNMP khi nhận thông báo.
    <br/>
    <img href='http://src="https://www.manageengine.com'/>
-   src="https://www.manageengine.com/network-monitoring/images/snmp-inform-acknowledgment.gif"&gt;
+   <img src="https://www.manageengine.com/network-monitoring/images/snmp-inform-acknowledgment.gif">
    <br/>
    - RESPONSE: đây là lệnh được sử dụng để mang lại giá trị hoặc tín hiệu của các hành động theo chỉ thị của SNMP manager.
    <br/>
    Giao tiếp SNMP điển hình: là một phần của gói giao thức TCP/IP, các gói tin của SNMP được gói như là UDP và gói tin được gói và truyền bởi giao thức Internet. Hình sau sẽ minh họa cho mô hình 4 lớp do Department of Defense (DoD) phát triển:
    <br/>
    <img href='http://src="https://www.manageengine.com'/>
-   src="https://www.manageengine.com/network-monitoring/images/snmp-layers.gif"&gt;
+   <img src="https://www.manageengine.com/network-monitoring/images/snmp-layers.gif">
    <br/>
    Mặc định SNMP sử dụng cổng 161 và TRAP/INFORM sử dụng cổng 162 để truyền tin.
   </p>
@@ -138,7 +138,7 @@
    SNMP chạy trên nền UDP. Cấu trúc của một bản tin SNMP bao gồm : version, community và data.
    <br/>
    <img href='http://src="http://i.imgur.com'/>
-   src="http://i.imgur.com/HZ0gq.jpg"&gt;
+   <img src="http://i.imgur.com/HZ0gq.jpg">
    <br/>
    + Version : v1 = 0, v2c = 1, v2u = 2, v3 = 3.
    <br/>
@@ -177,24 +177,24 @@
    Sau khi chạy lệnh trên sẽ có thông báo
    <br/>
    <img href='http://src="https://www.unixmen.com'/>
-   src="https://www.unixmen.com/wp-content/uploads/2015/01/1.png"&gt;
+   <img src="https://www.unixmen.com/wp-content/uploads/2015/01/1.png">
    <br/>
    Chọn OK để tiếp tục
    <br/>
    Sau đó có thông báo sau, chọn apache2
    <br/>
    <img href='http://src="https://www.unixmen.com'/>
-   src="https://www.unixmen.com/wp-content/uploads/2015/01/4.png"&gt;
+   <img src="https://www.unixmen.com/wp-content/uploads/2015/01/4.png">
    <br/>
    Tiếp theo sẽ có thông báo
    <br/>
    <img href='http://src="https://www.unixmen.com'/>
-   src="https://www.unixmen.com/wp-content/uploads/2015/01/2.png"&gt;
+   <img src="https://www.unixmen.com/wp-content/uploads/2015/01/2.png">
    <br/>
    Chọn yes, khi cài đặt sẽ có bước yêu cầu bạn nhập password cho tài khoản root MySQL của bạn
    <br/>
    <img href='http://src="https://www.unixmen.com'/>
-   src="https://www.unixmen.com/wp-content/uploads/2015/01/3.png"&gt;
+   <img src="https://www.unixmen.com/wp-content/uploads/2015/01/3.png">
    <br/>
    Cuối cùng sau khi hoàn thành các bước trên ta khởi động dịch vụ lên
    <br/>
@@ -212,7 +212,7 @@
    Cuối cùng thì trang web sẽ hiện ra như sau:
    <br/>
    <img href='http://src="https://www.unixmen.com'/>
-   src="https://www.unixmen.com/wp-content/uploads/2015/01/9.png"&gt;
+   <img src="https://www.unixmen.com/wp-content/uploads/2015/01/9.png">
    <br/>
    Tiếp theo thiết lập spine
    <br/>
@@ -221,7 +221,7 @@
    Vào chọn spine như hình dưới
    <br/>
    <img href='http://src="https://www.unixmen.com'/>
-   src="https://www.unixmen.com/wp-content/uploads/2015/01/spine.png"&gt;
+   <img src="https://www.unixmen.com/wp-content/uploads/2015/01/spine.png">
    <br/>
    Tiếp theo bạn chọn vào graphs -&gt; default tree -&gt; Host: Locahost
    <br/>
