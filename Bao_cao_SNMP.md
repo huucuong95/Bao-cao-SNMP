@@ -227,7 +227,7 @@
    <br/>
    Chờ một thời gian (trên 5 phút) bạn sẽ nhận được biểu đồ tương tự biểu đồ sau:
    <br/>
-   <img src=""/>
+   <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_033.png"/>
   </p>
   <h3 id="e-them-mot-server-e-theo-doi">
    e, Thêm một server để theo dõi
