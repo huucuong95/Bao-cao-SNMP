@@ -82,7 +82,7 @@
    Mỗi OID được tổ chức theo cấp bậc trong MIB. Phân cấp MIB có thể được biểu diễn trong một cấu trúc cây với mã nhận dạng cá thể.
    <br/>
    <img href='http://src="https://www.manageengine.com'/>
-   src="https://www.manageengine.com/network-monitoring/images/mib-oid-tree.gif"&gt;
+   <img src="https://www.manageengine.com/network-monitoring/images/mib-oid-tree.gif">
   </p>
   <h2 id="7-lenh-co-ban-cua-snmp">
    7, Lệnh cơ bản của SNMP
@@ -98,8 +98,7 @@
    <br/>
    - SET: thao tác này được manager sử dụng để sửa đổi hoặc chỉ định giá trị của thiết bị được quản lý.
    <br/>
-   <img href='http://src="https://www.manageengine.com'/>
-   src="https://www.manageengine.com/network-monitoring/images/snmp-get-response.gif"&gt;
+   <img src="https://www.manageengine.com/network-monitoring/images/snmp-get-response.gif">
    <br/>
    - TRAPS: không giống như các lệnh trên được bắt đầu từ manager SNMP, TRAPS được khởi tạo bởi các agent. Đây là một tín hiệu cho manager SNMP của agent khi có một sự kiện mới.
    <br/>
