@@ -52,7 +52,6 @@
    - Như là một proxy cho quản lý một node mạng.
    <br/>
    <img href='http://src="https://www.manageengine.com'/>
-   src="https://www.manageengine.com/network-monitoring/images/snmp-components.gif"&gt;
   </p>
   <h2 id="5-quan-ly-thong-tin-co-so-du-lieu-hoac-co-so-quan-ly-thong-tin-mib">
    5, Quản lý thông tin cơ sở dữ liệu hoặc cơ sở quản lý thông tin (MIB)
