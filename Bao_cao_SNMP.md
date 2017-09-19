@@ -35,7 +35,7 @@
    3, Các thiết bị được quản lý
   </h2>
   <p>
-   SNMP quản lý các thiết bị máy chhoặc các thiết bị mạng. Ví dụ như như: router, switch, server, máy in …
+   SNMP quản lý các thiết bị máy chủ hoặc các thiết bị mạng. Ví dụ như như: router, switch, server, máy in …
   </p>
   <h2 id="4-snmp-agent">
    4, SNMP agent
