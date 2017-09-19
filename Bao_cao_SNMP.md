@@ -11,8 +11,10 @@
    <br/>
    SNMP là một trong những giao thức được chấp nhận rộng rãi để quản lý và giám sát các thành phần mạng. Hầu hết các thiết bị đều được cài đặt sẵn SNMP. Nhưng chúng ta chúng ta cần phải kích hoạt và được cấu hình để liên lạc với network management system (NMS)
    <br/>
-   <img src="http://i.imgur.com/MABskd0.png">
-  </p>
+  <p align="center"> 
+  <img src="http://i.imgur.com/MABskd0.png">
+  </p>
+  </p>
   <h2 id="2-snmp-manager">
    2, SNMP Manager
   </h2>
