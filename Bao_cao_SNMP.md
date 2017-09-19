@@ -84,6 +84,7 @@
    <br/>
    Mỗi OID được tổ chức theo cấp bậc trong MIB. Phân cấp MIB có thể được biểu diễn trong một cấu trúc cây với mã nhận dạng cá thể.
    <br/>
+   <p align="center">
    <img href='http://src="https://www.manageengine.com'/>
    <img src="https://www.manageengine.com/network-monitoring/images/mib-oid-tree.gif">
   </p>
@@ -101,15 +102,18 @@
    <br/>
    - SET: thao tác này được manager sử dụng để sửa đổi hoặc chỉ định giá trị của thiết bị được quản lý.
    <br/>
+   <p align="center">
    <img src="https://www.manageengine.com/network-monitoring/images/snmp-get-response.gif">
    <br/>
    - TRAPS: không giống như các lệnh trên được bắt đầu từ manager SNMP, TRAPS được khởi tạo bởi các agent. Đây là một tín hiệu cho manager SNMP của agent khi có một sự kiện mới.
    <br/>
+    <p align="center">
    <img href='http://src="https://www.manageengine.com'/>
    <img src="https://www.manageengine.com/network-monitoring/images/snmp-trap.gif">
    <br/>
    - INFORM: lệnh này tương tự như TRAPS do agent khởi xướng, ngoài ra INFORM bao gồm xác nhận manager SNMP khi nhận thông báo.
    <br/>
+     <p align="center">
    <img href='http://src="https://www.manageengine.com'/>
    <img src="https://www.manageengine.com/network-monitoring/images/snmp-inform-acknowledgment.gif">
    <br/>
@@ -117,6 +121,7 @@
    <br/>
    Giao tiếp SNMP điển hình: là một phần của gói giao thức TCP/IP, các gói tin của SNMP được gói như là UDP và gói tin được gói và truyền bởi giao thức Internet. Hình sau sẽ minh họa cho mô hình 4 lớp do Department of Defense (DoD) phát triển:
    <br/>
+      <p align="center">
    <img href='http://src="https://www.manageengine.com'/>
    <img src="https://www.manageengine.com/network-monitoring/images/snmp-layers.gif">
    <br/>
@@ -140,6 +145,7 @@
   <p>
    SNMP chạy trên nền UDP. Cấu trúc của một bản tin SNMP bao gồm : version, community và data.
    <br/>
+   <p align="center">
    <img href='http://src="http://i.imgur.com'/>
    <img src="http://i.imgur.com/HZ0gq.jpg">
    <br/>
@@ -179,6 +185,7 @@
   <p>
    Sau khi chạy lệnh trên sẽ có thông báo
    <br/>
+   <p align="center">
    <img href='http://src="https://www.unixmen.com'/>
    <img src="https://www.unixmen.com/wp-content/uploads/2015/01/1.png">
    <br/>
@@ -186,16 +193,19 @@
    <br/>
    Sau đó có thông báo sau, chọn apache2
    <br/>
+    <p align="center">
    <img href='http://src="https://www.unixmen.com'/>
    <img src="https://www.unixmen.com/wp-content/uploads/2015/01/4.png">
    <br/>
    Tiếp theo sẽ có thông báo
    <br/>
+     <p align="center">
    <img href='http://src="https://www.unixmen.com'/>
    <img src="https://www.unixmen.com/wp-content/uploads/2015/01/2.png">
    <br/>
    Chọn yes, khi cài đặt sẽ có bước yêu cầu bạn nhập password cho tài khoản root MySQL của bạn
    <br/>
+      <p align="center">
    <img href='http://src="https://www.unixmen.com'/>
    <img src="https://www.unixmen.com/wp-content/uploads/2015/01/3.png">
    <br/>
@@ -214,6 +224,7 @@
    <br/>
    Cuối cùng thì trang web sẽ hiện ra như sau:
    <br/>
+       <p align="center">
    <img href='http://src="https://www.unixmen.com'/>
    <img src="https://www.unixmen.com/wp-content/uploads/2015/01/9.png">
    <br/>
@@ -223,6 +234,7 @@
    <br/>
    Vào chọn spine như hình dưới
    <br/>
+        <p align="center">
    <img href='http://src="https://www.unixmen.com'/>
    <img src="https://www.unixmen.com/wp-content/uploads/2015/01/spine.png">
    <br/>
@@ -230,6 +242,7 @@
    <br/>
    Chờ một thời gian (trên 5 phút) bạn sẽ nhận được biểu đồ tương tự biểu đồ sau:
    <br/>
+         <p align="center">
    <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_033.png"/>
   </p>
   <h3 id="e-them-mot-server-e-theo-doi">
@@ -238,6 +251,7 @@
   <p>
    Bạn truy cập vào Devices -&gt; add để thêm một máy đích theo dõi, rồi thêm các nội dung tương tự như dưới đây rồi ấn creat để thêm:
    <br/>
+   <p align="center">
    <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_034.png"/>
    <br/>
    Khi này bạn sẽ bị thông báo
@@ -256,16 +270,19 @@
    <br/>
    Chờ một chút thì sẽ thấy máy manager hiện kết quả như hình sau:
    <br/>
+    <p align="center">
    <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_036.png"/>
    <br/>
    Tiếp tới để xem được host dưới dạng biểu đồ thì chúng ta cần thêm host vào danh sách. Truy cập theo đường dẫn Graph Trees -&gt; test -&gt; add rồi chọn như hình dưới:
    <br/>
+     <p align="center">
    <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_038.png"/>
    <br/>
    Sau đó ấn create để hoàn thành
    <br/>
    Chuyển sang graphs chúng ta sẽ được kết quả tương tự như sau:
    <br/>
+      <p align="center">
    <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_039.png"/>
   </p>
   <h3 id="f-them-gui-mail-thong-bao-cho-server">
@@ -285,14 +302,17 @@
    <br/>
    Login vào Cacti thêm plugin theo hình dưới:
    <br/>
+   <p align="center">
    <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_041.png"/>
    <br/>
    Sau đó chọn setting -&gt; Mail / DNS rồi điền nội dung tương tự hình dưới rồi ấn save để lưu lại.
    <br/>
+    <p align="center">
    <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_040.png"/>
    <br/>
    Sau đó chọn sent a test email sẽ được kết quả
    <br/>
+     <p align="center">
    <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_043.png"/>
   </p>
   <h2 id="12-cai-prtg-tren-windows">
