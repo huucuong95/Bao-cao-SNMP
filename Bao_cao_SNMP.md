@@ -235,7 +235,7 @@
   <p>
    Bạn truy cập vào Devices -&gt; add để thêm một máy đích theo dõi, rồi thêm các nội dung tương tự như dưới đây rồi ấn creat để thêm:
    <br/>
-   <img src=""/>
+   <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_034.png"/>
    <br/>
    Khi này bạn sẽ bị thông báo
    <br/>
@@ -253,17 +253,17 @@
    <br/>
    Chờ một chút thì sẽ thấy máy manager hiện kết quả như hình sau:
    <br/>
-   <img src=""/>
+   <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_036.png"/>
    <br/>
    Tiếp tới để xem được host dưới dạng biểu đồ thì chúng ta cần thêm host vào danh sách. Truy cập theo đường dẫn Graph Trees -&gt; test -&gt; add rồi chọn như hình dưới:
    <br/>
-   <img src=""/>
+   <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_038.png"/>
    <br/>
    Sau đó ấn create để hoàn thành
    <br/>
    Chuyển sang graphs chúng ta sẽ được kết quả tương tự như sau:
    <br/>
-   <img src=""/>
+   <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_039.png"/>
   </p>
   <h3 id="f-them-gui-mail-thong-bao-cho-server">
    f, Thêm gửi mail thông báo cho server
@@ -282,15 +282,15 @@
    <br/>
    Login vào Cacti thêm plugin theo hình dưới:
    <br/>
-   <img src=""/>
+   <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_041.png"/>
    <br/>
    Sau đó chọn setting -&gt; Mail / DNS rồi điền nội dung tương tự hình dưới rồi ấn save để lưu lại.
    <br/>
-   <img src=""/>
+   <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_040.png"/>
    <br/>
    Sau đó chọn sent a test email sẽ được kết quả
    <br/>
-   <img src=""/>
+   <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_043.png"/>
   </p>
   <h2 id="12-cai-prtg-tren-windows">
    12, Cài PRTG trên Windows
