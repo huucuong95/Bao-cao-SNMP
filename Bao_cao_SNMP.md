@@ -342,33 +342,48 @@
     https://downloads.paessler.com/prtg/prtg.zip
    </a>
    <br/>
-   Tiếp theo chúng ta mở file lên và thực hiện cải đặt
+   Tiếp theo chúng ta mở file lên và thực hiện cài đặt
+    <br/>
+ <p align="center">
+   <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_044.png"/>
+  </p>
+   <br/>
    <br/>
    Trong quá trình cài đặt chúng ta sẽ nhận được một thông báo nhập key, nếu không có key chúng ta tick vào lựa chọn dùng thử 30 ngày, thì được dẫn tới web có sẵn key dùng thử 30 ngày.
-   <br/>
-   <img src=""/>
-   <br/>
+
    Sau khi cài đặt chúng ta có đượ kết quả như hình sau:
    <br/>
-   <img src=""/>
-   <br/>
+   <p align="center">
+   <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_045.png"/>
+ </p>
+   <br/>
    Chúng ta cũng có thể thấy được biểu đồ một số máy mà máy chúng ta đã kết nối sẵn bằng cách vào mục Devices:
    <br/>
-   <img src=""/>
+   <p align="center">
+   <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_046.png"/>
+ </p>
    <br/>
    Để thêm một máy mới để theo dõi chúng ta chọn theo đường dẫn Devices -&gt; add devices -&gt; chọn bản hệ điều hành mà mình cần
    <br/>
-   <img src=""/>
+   <p align="center">
+   <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_047.png"/>
+ </p>
    <br/>
    Điền thông tin thiết bị bạn muốn theo dõi
    <br/>
-   <img src=""/>
+   <p align="center">
+   <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_048.png"/>
+  </p>
    <br/>
    Kết quả là:
    <br/>
-   <img src=""/>
+ <p align="center">
+   <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_049.png"/>
+  </p>
    <br/>
-   <img src=""/>
+  <p align="center">
+   <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_050.png"/>
+  </p>
   </p>
  </body>
 </html>
