@@ -318,6 +318,7 @@
    <br/>
    <p align="center">
    <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_041.png"/>
+    <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_042.png"/>
      </p>
    <br/>
    Sau đó chọn setting -&gt; Mail / DNS rồi điền nội dung tương tự hình dưới rồi ấn save để lưu lại.
