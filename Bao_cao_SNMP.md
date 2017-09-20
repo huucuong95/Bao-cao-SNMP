@@ -292,14 +292,17 @@
    <br/>
    Tiếp tới để xem được host dưới dạng biểu đồ thì chúng ta cần thêm host vào danh sách. Truy cập theo đường dẫn Graph Trees -&gt; test -&gt; add rồi chọn như hình dưới:
    <br/>
-     <p align="center">
-   <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_038.png"/>
+    <p align="center">
+   <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_036.png"/>
   </p>
    <br/>
    Sau đó ấn create để hoàn thành
    <br/>
    Chuyển sang graphs chúng ta sẽ được kết quả tương tự như sau:
    <br/>
+   <p align="center">
+   <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_039.png"/>
+  </p>
       <p align="center">
    <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_053.png"/>
   </p>
