@@ -264,7 +264,7 @@
    Bạn truy cập vào Devices -&gt; add để thêm một máy đích theo dõi, rồi thêm các nội dung tương tự như dưới đây rồi ấn creat để thêm:
    <br/>
    <p align="center">
-   <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_034.png"/>
+   <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_053.png"/>
      </p>
    <br/>
    Khi này bạn sẽ bị thông báo
