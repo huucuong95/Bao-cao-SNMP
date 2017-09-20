@@ -264,7 +264,7 @@
    Bạn truy cập vào Devices -&gt; add để thêm một máy đích theo dõi, rồi thêm các nội dung tương tự như dưới đây rồi ấn creat để thêm:
    <br/>
    <p align="center">
-   <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_053.png"/>
+   <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_034.png"/>
      </p>
    <br/>
    Khi này bạn sẽ bị thông báo
@@ -286,6 +286,9 @@
     <p align="center">
    <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_036.png"/>
   </p>
+  <p align="center">
+   <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_037.png"/>
+  </p>
    <br/>
    Tiếp tới để xem được host dưới dạng biểu đồ thì chúng ta cần thêm host vào danh sách. Truy cập theo đường dẫn Graph Trees -&gt; test -&gt; add rồi chọn như hình dưới:
    <br/>
@@ -298,7 +301,7 @@
    Chuyển sang graphs chúng ta sẽ được kết quả tương tự như sau:
    <br/>
       <p align="center">
-   <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_039.png"/>
+   <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_053.png"/>
   </p>
   <h3 id="f-them-gui-mail-thong-bao-cho-server">
    f, Thêm gửi mail thông báo cho server
