@@ -391,6 +391,9 @@
   <p align="center">
    <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_050.png"/>
   </p>
+    <p align="center">
+   <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_055.png"/>
+  </p>
   </p>
  </body>
 </html>
