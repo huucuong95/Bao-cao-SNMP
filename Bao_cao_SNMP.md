@@ -396,8 +396,7 @@
   </p>
   </p>
   
-  - Cách để thêm các Notification chúng ta vào theo đường dẫn Setup -> ACCOUNT SETTINGS ->  Notification
-Tại đây chúng ta thêm các Notification với các tùy chọn gửi đi.
+  - Cách để thêm các Notification chúng ta vào theo đường dẫn Setup -> ACCOUNT SETTINGS ->  Notification. Tại đây chúng ta thêm các Notification với các tùy chọn gửi đi.
 Ví dụ chúng ta thêm một  Notification mới bằng cách nhấn vào add new  Notification
 <p align="center">
    <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_004.bmp"/>
