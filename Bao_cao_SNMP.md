@@ -395,5 +395,22 @@
    <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_055.png"/>
   </p>
   </p>
+  
+  - Cách để thêm các Notification chúng ta vào theo đường dẫn Setup -> ACCOUNT SETTINGS ->  Notification
+Tại đây chúng ta thêm các Notification với các tùy chọn gửi đi.
+Ví dụ chúng ta thêm một  Notification mới bằng cách nhấn vào add new  Notification
+<p align="center">
+   <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_004.bmp"/>
+  </p>
+Sau đó chúng ta thêm các trường tùy chọn để gửi đi  Notification mới, như là email, sms, SNMP…
+Sau khi điền xong tùy chọn bạn ấn SAVE để lưu các thông tin bạn thêm vào
+Ta có được kết quả:
+<p align="center">
+   <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_005.bmp"/>
+  </p>
+Chọn test thì thấy:
+<p align="center">
+   <img src="https://github.com/huucuong95/Bao-cao-SNMP/blob/master/Selection_006.bmp"/>
+  </p>
  </body>
 </html>
